@@ -57,7 +57,7 @@ matches the sequence or not (`match_suspect`).
 
 
 
-You can test your solution locally by running: `python exercise.py`
+You can test your solution locally by running: `python exercise.py -v`
 
 Since I'm not a biologist, the biological terminology is probably not accurate:
 please, suggest corrections on Zulip!
